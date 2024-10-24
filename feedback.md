@@ -1,0 +1,2 @@
+- functionally all OK (nice job using mostly native components, nice job keeping the codebase simple and unclutered)
+- could have used the "dark:" prefix for tailwind dark mode classes
